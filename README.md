@@ -3,12 +3,6 @@
 
 This project is simple to use, the program accept one argument as a width of each square, by char. 
 
-
-## Screenshots
-
-![ScreenShot](https://prnt.sc/fyguNnUvcA_T)
-
-
 ## To compile using clang or gcc
 
 
